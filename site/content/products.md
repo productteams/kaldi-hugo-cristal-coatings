@@ -1,11 +1,11 @@
 ---
-title: Our Coffee
+title: Wood Home Splendor
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
+heading: What we offer for the exterior of your home.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
+  Cristal Coatings is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
